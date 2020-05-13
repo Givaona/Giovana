@@ -1,6 +1,6 @@
 body{
-  background-image:url(https://images2.alphacoders.com/778/77840.jpg);
-  backgrond-size: 100vh;
+  background:hsla(0, 100%, 50%, 0.3);
+  
 }
 .site-title{
   color: white;
