@@ -17,6 +17,8 @@ body{
 }
 .menu{
   background: darkgreen;
+  background-image:url(https://images2.alphacoders.com/778/77840.jpg);
+  backgrond-size: 100vh;
 }
 .menu li {
   list-style: none;
