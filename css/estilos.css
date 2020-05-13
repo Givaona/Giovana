@@ -1,31 +1,31 @@
 body{
   background: PALEGREEN;
+  background-image:url(https://images2.alphacoders.com/778/77840.jpg);
+  backgrond-size: 100vh;
 }
 .site-title{
-  color: darkgreen;
+  color: white;
   font-family: palatino;
   font-size: 40px;
   font-weight: 500;
   text-align: center;
 }
 .site-subtitle{
-  color: darkgreen;
+  color: white;
   font-family: palatino;
   font-size: 20px;
   font-weight: 500;
   text-align: center;
 }
 .menu{
-  background: darkgreen;
-  background-image:url(https://images2.alphacoders.com/778/77840.jpg);
-  backgrond-size: 100vh;
+  background: white;
 }
 .menu li {
   list-style: none;
 }
 a {
   text-decoration: none;
-  color: #F0FFF0;
+  color: black;
 }
 a:hover {
   text-decoration: underline;
